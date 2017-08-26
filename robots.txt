@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: 
+Disallow: /dash
+Disallow: /auth
+Disallow: /stats
+Disallow: /adam
+Disallow: /log
+Disallow: /ivt
+Disallow: /kt_42_16
+Disallow: /stati

@@ -1,0 +1,1 @@
+<li class="{active}"><a href=""><i class="fa {fa_icon}"></i>{title}<i class="fa arrow"></i></a><ul class="collapse {in}">{ul}</ul></li>
